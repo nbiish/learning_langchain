@@ -1,6 +1,10 @@
 # learning Langchain 😁🥰
 
-Following along with the Python Quickstart guide from https://python.langchain.com/en/latest/getting_started/getting_started.html  
+Following along with the [Python Quickstart guide](https://python.langchain.com/en/latest/getting_started/getting_started.html)  
+  
+and  
+  
+working through [Langchains AI Handbook](https://www.pinecone.io/learn/langchain/)
   
   
 ## Link to my colab for following along.
